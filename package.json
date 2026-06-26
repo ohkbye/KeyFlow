@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "jszip": "^3.10.1",
+    "opensheetmusicdisplay": "^1.9.9",
+    "soundfont-player": "^0.12.0",
+    "tone": "^15.1.22"
+  }
+}
